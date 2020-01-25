@@ -2,8 +2,8 @@
   "name": "reactfire",
   "version": "2.0.0",
   "description": "Firebase library for React",
-  "main": "index.js",
-  "types": "index.d.ts",
+  "main": "pub/reactfire/index.js",
+  "types": "pub/reactfire/index.d.ts",
   "private": true,
   "scripts": {
     "build-dev": "tsc --watch",
